@@ -1,4 +1,4 @@
-## Boas Vindas ao meu perfil, Prazer em recebelos 👋
+## Boas Vindas ao meu perfil, Prazer em recebe-los 👋
 
 Meu nome é Gabriel Bussadori 
 
