@@ -2,7 +2,7 @@
 
 Meu nome é Gabriel Bussadori 
 
--Estou estudando pelo Alura.
+-Estou estudando pelo [Alura](https://www.alura.com.br)
 
 -Ultilizo esse espaço para armazenar e compartilhar meus projetos.
 
