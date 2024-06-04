@@ -10,6 +10,6 @@ Meu nome é Gabriel Bussadori
 
 
 
-![]((https://media1.tenor.com/m/CzaHhPyIR8gAAAAC/rosy00.gif))
+![](https://media1.tenor.com/m/CzaHhPyIR8gAAAAC/rosy00.gif)
 
 
